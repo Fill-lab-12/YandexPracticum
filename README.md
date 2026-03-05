@@ -1,2 +1,2 @@
 # YandexPracticum
-Репозитория с разбором всего Yandex Practicum 
+Репозиторий с разбором всего Yandex Practicum 
